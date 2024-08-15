@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blainercosta
 - 👀 I’m interested in User experience & User Interface
-- 🌱 I’m currently learning about IA
-- 💞️ I’m looking to collaborate on IA
+- 🌱 I’m currently learning about AI
+- 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me hello@blainercosta.com
 
 <!---

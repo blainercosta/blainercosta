@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @blainercosta
-- 👀 I’m interested in User experience & User Interface
-- 🌱 I’m currently learning about AI
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me hello@blainercosta.com
+👋 Hi, I’m Blainer Costa
 
-<!---
-blainercosta/blainercosta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design and build AI driven products.
+UX, UI and systems that actually ship.
+
+Currently working hands on with
+AI, no code, automation and product design.
+
+I collaborate on practical AI projects, tools and experiments.
+Less theory, more execution.
+
+📫 Contact
+hello@blainercosta.com
